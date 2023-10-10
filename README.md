@@ -1,0 +1,6 @@
+# Schoolwebsite
+This is a website called "Techpedia"
+The website is a porject for school, therefore teh repo called Schoolwebsite.
+This website is called "Techpedia" because all of teh pages conatin basic tech tips, kind of like an encyclopedia.
+YOu can edit it, just don't ruin it.
+The pages site for it is 'https://graydm16.github.io/Schoolwebsite/'.
