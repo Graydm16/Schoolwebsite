@@ -1,50 +1,30 @@
-.h11 {
-	font-family: Fantasy;
-}
-.h31 {
-	font-family: Arial;
-}
-.a11 {
-	color: green;
-	font-family: Arial;
-}
+/* Style.css */
 
-
-.h12 {
-	font-family: Fantasy;
-}
-.h22 {
-	font-family: Arial;
-}
-.a12 {
-	color: green;
-	font-family: Arial;
-}
-.a32 {
-	color: green;
-	font-family: Arial;
-}
-.button {
-    background-color: purple;
-    border-radius: 5px;
-    font-weight: bold;
-    font-size: 18px;
-    font-family: monospace;
-    color: white;
-    padding: 20px;
-    margin-left: 10px;
+body {
+    font-family: Arial, sans-serif;
     text-align: center;
-    cursor: pointer;
+    background-color: #f4f4f4;
 }
-.p12{
-  font-family: Arial;
+
+.h11 {
+    color: #333;
 }
-.a22{
-  font-family: Arial;
-  color: green;
+
+.a11 button {
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text */
+    padding: 15px 32px; /* Some padding */
+    text-align: center; /* Centered text */
+    text-decoration: none; /* No underline */
+    display: inline-block; /* Make the button inline */
+    font-size: 16px; /* Increase font size */
+    margin: 4px 2px; /* Margin around the button */
+    cursor: pointer; /* Pointer cursor on hover */
+    border: none; /* Remove border */
+    border-radius: 4px; /* Rounded corners */
+    transition: background-color 0.3s; /* Smooth transition */
 }
-.img {
-	width: 400px;
-	height: 300px;
-	image-orientation: 90deg; 
+
+.a11 button:hover {
+    background-color: #45a049; /* Darker green on hover */
 }
