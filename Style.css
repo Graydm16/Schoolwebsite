@@ -24,7 +24,7 @@
 	color: green;
 	font-family: Arial;
 }
-button {
+.button {
     background-color: purple;
     border-radius: 5px;
     font-weight: bold;
