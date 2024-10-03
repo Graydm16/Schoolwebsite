@@ -6,9 +6,10 @@ body {
     background-color: #f4f4f4;
 }
 
-.h11 {
-    color: #333;
+h1 {
+  font-size: 40px;
 }
+
 
 .a11 button {
     background-color: Green; /* Green background */
