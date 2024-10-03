@@ -11,7 +11,7 @@ body {
 }
 
 .a11 button {
-    background-color: #4CAF50; /* Green background */
+    background-color: Green; /* Green background */
     color: white; /* White text */
     padding: 15px 32px; /* Some padding */
     text-align: center; /* Centered text */
@@ -26,5 +26,48 @@ body {
 }
 
 .a11 button:hover {
-    background-color: #45a049; /* Darker green on hover */
+    background-color: #006400; /* Darker green on hover */
+}
+
+.a13 button {
+    background-color: red; /* Green background */
+    color: white; /* White text */
+    padding: 15px 32px; /* Some padding */
+    text-align: center; /* Centered text */
+    text-decoration: none; /* No underline */
+    display: inline-block; /* Make the button inline */
+    font-size: 16px; /* Increase font size */
+    margin: 4px 2px; /* Margin around the button */
+    cursor: pointer; /* Pointer cursor on hover */
+    border: none; /* Remove border */
+    border-radius: 4px; /* Rounded corners */
+    transition: background-color 0.3s; /* Smooth transition */
+}
+
+.a13 button:hover {
+    background-color: #8B0000; /* Darker green on hover */
+}
+
+.a15 button {
+    background-color: blue; /* Green background */
+    color: white; /* White text */
+    padding: 15px 32px; /* Some padding */
+    text-align: center; /* Centered text */
+    text-decoration: none; /* No underline */
+    display: inline-block; /* Make the button inline */
+    font-size: 16px; /* Increase font size */
+    margin: 4px 2px; /* Margin around the button */
+    cursor: pointer; /* Pointer cursor on hover */
+    border: none; /* Remove border */
+    border-radius: 4px; /* Rounded corners */
+    transition: background-color 0.3s; /* Smooth transition */
+}
+
+.a15 button:hover {
+    background-color: #00008b; /* Darker green on hover */
+}
+
+.img {
+	width: 500px;
+	float: center;
 }
